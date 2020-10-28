@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivityTracker", "Activity
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExamples", "..\LINQWexamples\LINQWexamples\LINQExamples\LINQExamples.csproj", "{0A15764B-D1A3-416E-913B-0F1E63F4A314}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rad3012020Week1Part2", "Rad3012020Week1Part2\Rad3012020Week1Part2.csproj", "{5DCEAE0E-E065-4C6D-8FAA-52515CD2DF4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0A15764B-D1A3-416E-913B-0F1E63F4A314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A15764B-D1A3-416E-913B-0F1E63F4A314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A15764B-D1A3-416E-913B-0F1E63F4A314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DCEAE0E-E065-4C6D-8FAA-52515CD2DF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCEAE0E-E065-4C6D-8FAA-52515CD2DF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCEAE0E-E065-4C6D-8FAA-52515CD2DF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCEAE0E-E065-4C6D-8FAA-52515CD2DF4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
